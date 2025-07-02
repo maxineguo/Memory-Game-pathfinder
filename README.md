@@ -10,7 +10,7 @@ This is a memory game on a PCB. When the first button is pressed(labeled), a ran
 * 4 Buttons(Cherry MX Switches)
 
 ## Screenshots!
-![Schematic Of PCB](Screenshots of PCB/pcbpathfinder.png "Schematic")
+![Schematic Of PCB](pcbpathfinder.png "Schematic")
 
 Schematic
 
