@@ -9,4 +9,25 @@ This is a memory game on a PCB. When the first button is pressed(labeled), a ran
 * 4 Resistors
 * 4 Buttons(Cherry MX Switches)
 
-## Screenshots
+## Screenshots!
+![Schematic Of PCB](schematicpathfinder.png "Schematic")
+
+Schematic
+
+
+
+![PCB Of Project](pcbpathfinder.png "PCB")
+
+PCB
+
+
+
+![3D Preview Of PCB(front)](3dfrontpathfinder.png "3D Preview(front)")
+
+3D Preview(front)
+
+
+
+![3D Preview Of PCB(back)](3dbackpathfinder.png "3D Preview(back)")
+
+3D Preview(back)
